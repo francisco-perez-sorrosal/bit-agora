@@ -1,0 +1,41 @@
+{
+  "name": "bit-agora",
+  "owner": {
+    "name": "Francisco Perez-Sorrosal",
+    "email": "fperezsorrosal@gmail.com"
+  },
+  "metadata": {
+    "description": "Personal plugin marketplace — AI assistants and investment research tools for Claude",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "i-am",
+      "source": {"source": "github", "repo": "francisco-perez-sorrosal/ai-assistants"},
+      "description": "Context engineering skills, agents, rules, and commands for Claude Code",
+      "version": "0.0.1",
+      "author": {
+        "name": "Francisco Perez-Sorrosal"
+      },
+      "homepage": "https://github.com/francisco-perez-sorrosal/ai-assistants",
+      "license": "MIT",
+      "keywords": ["context-engineering", "skills", "agents", "rules", "commands"],
+      "category": "developer-tools",
+      "tags": ["ai", "context", "developer-tools", "productivity"]
+    },
+    {
+      "name": "stockpile",
+      "source": {"source": "github", "repo": "francisco-perez-sorrosal/stockpile"},
+      "description": "Investment research skills and MCP servers for Claude — ticker lookup, stock clustering, and market data caching",
+      "version": "0.1.0",
+      "author": {
+        "name": "Francisco Perez-Sorrosal"
+      },
+      "homepage": "https://github.com/francisco-perez-sorrosal/stockpile",
+      "license": "MIT",
+      "keywords": ["stocks", "ticker", "investment", "clustering", "yahoo-finance", "mcp"],
+      "category": "data",
+      "tags": ["stocks", "investment", "finance", "mcp", "skills"]
+    }
+  ]
+}
