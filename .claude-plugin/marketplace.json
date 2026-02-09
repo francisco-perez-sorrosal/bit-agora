@@ -5,7 +5,7 @@
     "email": "fperezsorrosal@gmail.com"
   },
   "metadata": {
-    "description": "Personal plugin marketplace — AI assistants and investment research tools for Claude",
+    "description": "Personal public plugin marketplace for AI-Assistants",
     "version": "0.1.0"
   },
   "plugins": [
