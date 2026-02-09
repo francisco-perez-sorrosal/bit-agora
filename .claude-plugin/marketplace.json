@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "i-am",
-      "source": {"source": "github", "repo": "francisco-perez-sorrosal/ai-assistants"},
+      "source": {"source": "github", "repo": "francisco-perez-sorrosal/ai-assistants-cfg"},
       "description": "Context engineering skills, agents, rules, and commands for Claude Code",
       "version": "0.0.1",
       "author": {
