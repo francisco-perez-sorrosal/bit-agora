@@ -24,6 +24,20 @@
       "tags": ["ai", "context", "developer-tools", "productivity"]
     },
     {
+      "name": "cv",
+      "source": {"source": "github", "repo": "francisco-perez-sorrosal/cv#mcp"},
+      "description": "Francisco Perez-Sorrosal's CV/Résumé",
+      "version": "0.0.3",
+      "author": {
+        "name": "Francisco Perez-Sorrosal"
+      },
+      "homepage": "https://github.com/francisco-perez-sorrosal/cv",
+      "license": "MIT",
+      "keywords": ["Francisco", "Perez-Sorrosal", "CV", "Resume", "Curriculum Vitae", "AI", "Artificial Intelligence", "Machine Learning", "SWE", "Software Engineering", "Transactional Systems", "Distributed Systems"],
+      "category": "professional",
+      "tags": ["francisco", "perez-sorrosal", "cv", "resume", "curriculum-vitae", "ai", "artificial-intelligence", "machine-learning", "swe", "software-engineering", "transactional-systems", "distributed-systems"]
+    },    
+    {
       "name": "stockpile",
       "source": {"source": "github", "repo": "francisco-perez-sorrosal/stockpile"},
       "description": "Investment research skills and MCP servers for Claude — ticker lookup, stock clustering, and market data caching",
