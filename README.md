@@ -11,16 +11,19 @@ claude plugin marketplace add francisco-perez-sorrosal/bit-agora
 Then install any plugin:
 
 ```bash
-claude plugin install stockpile
 claude plugin install i-am
+claude plugin install cv
+claude plugin install stockpile
 ```
 
 ## Available Plugins
 
 | Plugin | Description | Repo |
 | ------ | ----------- | ---- |
+| [i-am](https://github.com/francisco-perez-sorrosal/ai-assistants-cfg) | Context engineering — skills, agents, rules, and commands | `francisco-perez-sorrosal/ai-assistants` |
+| [cv](https://github.com/francisco-perez-sorrosal/cv) | CV/Résumé | `francisco-perez-sorrosal/cv` |
 | [stockpile](https://github.com/francisco-perez-sorrosal/stockpile) | Investment research — ticker lookup, stock clustering, market data caching | `francisco-perez-sorrosal/stockpile` |
-| [i-am](https://github.com/francisco-perez-sorrosal/ai-assistants) | Context engineering — skills, agents, rules, and commands | `francisco-perez-sorrosal/ai-assistants` |
+
 
 ## Managing
 
