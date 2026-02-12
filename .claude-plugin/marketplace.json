@@ -25,7 +25,7 @@
     },
     {
       "name": "cv",
-      "source": {"source": "github", "repo": "francisco-perez-sorrosal/cv#mcp"},
+      "source": {"source": "github", "repo": "francisco-perez-sorrosal/cv", "ref": "mcp"},
       "description": "Francisco Perez-Sorrosal's CV/Résumé",
       "version": "0.0.3",
       "author": {
