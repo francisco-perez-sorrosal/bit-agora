@@ -5,23 +5,23 @@
     "email": "fperezsorrosal@gmail.com"
   },
   "metadata": {
-    "description": "Personal public plugin marketplace for AI-Assistants",
+    "description": "Personal public plugin marketplace for AI-Assistant related stuff",
     "version": "0.1.0"
   },
   "plugins": [
     {
       "name": "i-am",
-      "source": {"source": "github", "repo": "francisco-perez-sorrosal/ai-assistants-cfg"},
-      "description": "Context engineering skills, agents, rules, and commands for Claude Code",
+      "source": {"source": "github", "repo": "francisco-perez-sorrosal/praxion"},
+      "description": "My vision of operationalizing spec-driven development and context engineering (through skills, agents, rules, and commands) into a reliable, context-aware agentic execution environment.",
       "version": "0.0.1",
       "author": {
         "name": "Francisco Perez-Sorrosal"
       },
-      "homepage": "https://github.com/francisco-perez-sorrosal/ai-assistants",
+      "homepage": "https://github.com/francisco-perez-sorrosal/praxion",
       "license": "MIT",
-      "keywords": ["context-engineering", "skills", "agents", "rules", "commands"],
+      "keywords": ["specs", "context-engineering", "skills", "agents", "rules", "commands"],
       "category": "developer-tools",
-      "tags": ["ai", "context", "developer-tools", "productivity"]
+      "tags": ["specs", "agents", "ai", "context", "developer-tools", "productivity"]
     },
     {
       "name": "cv",

@@ -8,7 +8,7 @@ Personal plugin marketplace for Claude Code by [@fperezsorrosal](https://github.
 claude plugin marketplace add francisco-perez-sorrosal/bit-agora
 ```
 
-Then install any plugin:
+Then install any plugin `claude plugin install <plugin-name>`:
 
 ```bash
 claude plugin install i-am
@@ -20,7 +20,7 @@ claude plugin install stockpile
 
 | Plugin | Description | Repo |
 | ------ | ----------- | ---- |
-| [i-am](https://github.com/francisco-perez-sorrosal/ai-assistants-cfg) | Context engineering — skills, agents, rules, and commands | `francisco-perez-sorrosal/ai-assistants` |
+| [i-am](https://github.com/francisco-perez-sorrosal/praxion) | My vision of operationalizing spec-driven development and context engineering (through skills, agents, rules, and commands) into a reliable, context-aware agentic execution environment. | `francisco-perez-sorrosal/praxion` |
 | [cv](https://github.com/francisco-perez-sorrosal/cv) | CV/Résumé | `francisco-perez-sorrosal/cv` |
 | [stockpile](https://github.com/francisco-perez-sorrosal/stockpile) | Investment research — ticker lookup, stock clustering, market data caching | `francisco-perez-sorrosal/stockpile` |
 
