@@ -13,7 +13,7 @@
       "name": "i-am",
       "source": {"source": "github", "repo": "francisco-perez-sorrosal/praxion"},
       "description": "My vision of operationalizing spec-driven development and context engineering (through skills, agents, rules, and commands) into a reliable, context-aware agentic execution environment.",
-      "version": "0.0.1",
+      "version": "0.2.0",
       "author": {
         "name": "Francisco Perez-Sorrosal"
       },
