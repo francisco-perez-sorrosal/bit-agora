@@ -50,6 +50,20 @@
       "keywords": ["stocks", "ticker", "investment", "clustering", "yahoo-finance", "mcp"],
       "category": "data",
       "tags": ["stocks", "investment", "finance", "mcp", "skills"]
+    },
+    {
+      "name": "knotica",
+      "source": {"source": "github", "repo": "francisco-perez-sorrosal/knotica"},
+      "description": "AI-maintained, compounding knowledge wiki (llm-wiki): a stateless MCP server plus per-topic self-improving agents over an Obsidian vault. The client's LLM does the cognitive work (ingest/query/lint) guided by vault schemas.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Francisco Perez-Sorrosal"
+      },
+      "homepage": "https://github.com/francisco-perez-sorrosal/knotica",
+      "license": "MIT",
+      "keywords": ["knowledge-wiki", "mcp", "obsidian", "llm-wiki", "dspy"],
+      "category": "developer-tools",
+      "tags": ["knowledge-wiki", "mcp", "obsidian", "llm-wiki", "dspy", "ai", "note-taking", "self-improving"]
     }
   ]
 }
