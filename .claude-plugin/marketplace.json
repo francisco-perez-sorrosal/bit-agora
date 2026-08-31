@@ -64,6 +64,20 @@
       "keywords": ["knowledge-wiki", "mcp", "obsidian", "llm-wiki", "dspy"],
       "category": "developer-tools",
       "tags": ["knowledge-wiki", "mcp", "obsidian", "llm-wiki", "dspy", "ai", "note-taking", "self-improving"]
+    },
+    {
+      "name": "crvntx",
+      "source": {"source": "github", "repo": "francisco-perez-sorrosal/crvntx"},
+      "description": "Neo-punk Cervantes — Claude skills for writing techniques in the age of agents and LLMs. First skill: humanize, which detects and eliminates LLM-style contamination in prose.",
+      "version": "0.0.0",
+      "author": {
+        "name": "Francisco Perez-Sorrosal"
+      },
+      "homepage": "https://github.com/francisco-perez-sorrosal/crvntx",
+      "license": "MIT",
+      "keywords": ["writing", "humanize", "ai-slop", "llm-style", "editing", "prose", "skills"],
+      "category": "productivity",
+      "tags": ["writing", "humanize", "editing", "prose", "ai", "skills", "productivity"]
     }
   ]
 }
