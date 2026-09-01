@@ -69,7 +69,7 @@
       "name": "crvntx",
       "source": {"source": "github", "repo": "francisco-perez-sorrosal/crvntx"},
       "description": "Neo-punk Cervantes — Claude skills for writing techniques in the age of agents and LLMs. First skill: humanize, which detects and eliminates LLM-style contamination in prose.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "author": {
         "name": "Francisco Perez-Sorrosal"
       },
