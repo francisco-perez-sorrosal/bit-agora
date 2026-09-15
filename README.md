@@ -21,7 +21,8 @@ claude plugin install stockpile
 | Plugin | Description | Repo |
 | ------ | ----------- | ---- |
 | [i-am](https://github.com/francisco-perez-sorrosal/praxion) | My vision of operationalizing spec-driven development and context engineering (through skills, agents, rules, and commands) into a reliable, context-aware agentic execution environment. | `francisco-perez-sorrosal/praxion` |
-| [cv](https://github.com/francisco-perez-sorrosal/cv) | CV/Résumé | `francisco-perez-sorrosal/cv` |
+| [cv](https://github.com/francisco-perez-sorrosal/cv-forge/tree/main/plugins/cv) | CV/Résumé (remote MCP + analysis/tailoring skills) | `francisco-perez-sorrosal/cv-forge` (`plugins/cv`) |
+| [cv-forge](https://github.com/francisco-perez-sorrosal/cv-forge/tree/main/plugins/cv-forge) | CV maintainer tools (edit via PR, publish, deploy) | `francisco-perez-sorrosal/cv-forge` (`plugins/cv-forge`) |
 | [stockpile](https://github.com/francisco-perez-sorrosal/stockpile) | Investment research — ticker lookup, stock clustering, market data caching | `francisco-perez-sorrosal/stockpile` |
 
 
